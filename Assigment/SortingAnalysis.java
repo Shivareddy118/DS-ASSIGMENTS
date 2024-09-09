@@ -1,11 +1,11 @@
-package Sorts;
+package Assigment;
 import java.util.Arrays; 
 import java.util.Random; 
  
 public class SortingAnalysis { 
  
     public static void main(String[] args) { 
-        int[] sizes = {1000, 5000, 10000}; // Array sizes to test 
+        int[] sizes = {1000, 5000, 100000}; // Array sizes to test 
         for (int size : sizes) { 
             System.out.println("Array Size: " + size); 
  

@@ -1,4 +1,4 @@
-package Sorts;
+package Assigment;
 import java.util.EmptyStackException;
 
 public class DynamicArrayStack {
